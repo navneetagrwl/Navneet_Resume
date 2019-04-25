@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class AchievementComponent extends Component {
+class PersonalDetailComponent extends Component {
     render() {
         return (
             <div>
@@ -8,4 +8,4 @@ class AchievementComponent extends Component {
         )
     }
 };
-export default AchievementComponent;
+export default PersonalDetailComponent;
