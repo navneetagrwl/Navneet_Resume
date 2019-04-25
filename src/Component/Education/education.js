@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class CarrierComponent extends Component {
+class EducationComponent extends Component {
     render() {
         return (
             <div>
@@ -8,4 +8,4 @@ class CarrierComponent extends Component {
         )
     }
 };
-export default CarrierComponent;
+export default EducationComponent;
