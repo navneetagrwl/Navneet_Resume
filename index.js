@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Hello from './Hello';
+import {render} from 'react-dom';
 import './style.css';
 import React from 'react';
-import App from './Container/App/app';
+import App from './src/Container/App/app';
 
 
 render(<App />, document.getElementById('root'));
